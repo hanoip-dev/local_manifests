@@ -11,7 +11,7 @@
     <project path="device/motorola/sm6150-common" name="android_device_motorola_sm6150-common"
         remote="hanoip-dev" revision="12" />
     <!-- Vendor Trees -->
-    <project path="vendor/motorola/common" name="vendor_device_motorola_common"
+    <project path="vendor/motorola/common" name="android_vendor_motorola_common"
         remote="hanoip-dev" revision="12" />
     <project path="vendor/motorola/hanoip" name="android_vendor_motorola_hanoip"
         remote="hanoip-dev" revision="12" />
