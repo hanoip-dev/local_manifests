@@ -7,7 +7,7 @@
     <project path="device/motorola/common" name="android_device_motorola_common"
         remote="hanoip-dev" revision="12" />
     <project path="device/motorola/hanoip" name="android_device_motorola_hanoip"
-        remote="hanoip-dev" revision="12" />
+        remote="hanoip-dev" revision="pe" />
     <project path="device/motorola/sm6150-common" name="android_device_motorola_sm6150-common"
         remote="hanoip-dev" revision="12" />
     <!-- Vendor Trees -->
@@ -19,7 +19,7 @@
         remote="hanoip-dev" revision="12" />
     <!-- Kernel Tree -->
     <project path="kernel/motorola/sm6150" name="android_kernel_motorola_sm6150"
-        remote="hanoip-dev" revision="12" />
+        remote="hanoip-dev" revision="cosmic" />
 
     <!-- Supporting Repos -->
     <!-- QCOM Common -->
@@ -35,6 +35,8 @@
     <project path="vendor/qcom/opensource/display-commonsys-intf" name="platform_vendor_qcom_opensource_display-commonsys-intf"
         remote="hanoip-dev" revision="12" />
     <project path="vendor/qcom/opensource/media/sm8150" name="platform_vendor_qcom_opensource_media_sm8150"
+        remote="hanoip-dev" revision="12" />
+    <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces"
         remote="hanoip-dev" revision="12" />
     <!-- Sony sepolicy -->
     <project path="device/sony/sepolicy" name="android_device_sony_sepolicy"
