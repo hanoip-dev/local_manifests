@@ -14,7 +14,7 @@
     <project path="vendor/motorola/common" name="android_vendor_motorola_common"
         remote="hanoip-dev" revision="12" />
     <project path="vendor/motorola/hanoip" name="android_vendor_motorola_hanoip"
-        remote="hanoip-dev" revision="12" />
+        remote="hanoip-dev" revision="black" />
     <project path="vendor/motorola/sm6150-common" name="android_vendor_motorola_sm6150-common"
         remote="hanoip-dev" revision="12" />
     <!-- Kernel Tree -->
