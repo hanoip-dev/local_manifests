@@ -7,14 +7,14 @@
     <project path="device/motorola/common" name="android_device_motorola_common"
         remote="hanoip-dev" revision="13" />
     <project path="device/motorola/hanoip" name="android_device_motorola_hanoip"
-        remote="hanoip-dev" revision="pe" />
+        remote="hanoip-dev" revision="te" />
     <project path="device/motorola/sm6150-common" name="android_device_motorola_sm6150-common"
         remote="hanoip-dev" revision="13" />
     <!-- Vendor Trees -->
     <project path="vendor/motorola/common" name="android_vendor_motorola_common"
         remote="hanoip-dev" revision="13" />
     <project path="vendor/motorola/hanoip" name="android_vendor_motorola_hanoip"
-        remote="hanoip-dev" revision="black" />
+        remote="hanoip-dev" revision="te" />
     <project path="vendor/motorola/sm6150-common" name="android_vendor_motorola_sm6150-common"
         remote="hanoip-dev" revision="12" />
     <!-- Kernel Tree -->
