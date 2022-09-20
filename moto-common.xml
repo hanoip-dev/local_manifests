@@ -48,5 +48,7 @@
     <!-- Toolchain -->
     <project path="prebuilts/clang/host/linux-x86/clang-r428724" name="clang-13.0.1"
         remote="hanoip-dev" revision="12" />
-
+    <!-- MotoAction -->
+    <project path="hardware/motorola" name="android_hardware_motorola"
+        remote="hanoip-dev" revision="12" />
 </manifest>
